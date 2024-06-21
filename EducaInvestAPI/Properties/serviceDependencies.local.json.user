@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-06-21T07:46:44.6402263Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-06-21T07:44:52.4506778Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b782c935-e26e-4377-ba72-433907c041e1"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tcc-api"
+    }
+  }
+}
