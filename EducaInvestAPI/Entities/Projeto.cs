@@ -27,6 +27,8 @@ namespace EducaInvestAPI.Entities
 
         public int CronogramaId { get; set; }
 
+        public List<Usuario> Colaboradores { get; set; } = new List<Usuario>();
+
         [JsonIgnore]
         public List<byte[]>? FileBytes { get; set; } = null;
 
@@ -36,7 +38,6 @@ namespace EducaInvestAPI.Entities
         [JsonIgnore]
         public Cronograma? Cronograma { get; set; }
 
-        [JsonIgnore]
-        public List<Usuario> Colaboradores { get; set; } = new List<Usuario>();
+
     }
 }

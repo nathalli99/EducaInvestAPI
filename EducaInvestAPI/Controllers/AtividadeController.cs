@@ -48,6 +48,21 @@ namespace EducaInvestAPI.Controllers
             }
         }
 
+        [HttpGet("GetAtividadeByCronograma/{cronogramaId}")] // Método para o usuário poder visualizar as atividades de acordo com o cronograma
+        public async Task<ActionResult<List<Atividade>>> GetAtividadeByCronograma(int cronogramaId)
+        {
+            var listAtividade = await _context.TB_ATIVIDADES
+                                         .Where(p => p.CronogramaId == cronogramaId)
+                                         .ToListAsync();
+
+            if (listAtividade == null || listAtividade.Count == 0)
+            {
+                return NotFound("Nenhuma atividade encontrada para este cronograma.");
+            }
+
+            return Ok(listAtividade);
+        }
+
 
         [HttpPost]
         public async Task<ActionResult<List<Atividade>>> AddAtividade(Atividade atividade)

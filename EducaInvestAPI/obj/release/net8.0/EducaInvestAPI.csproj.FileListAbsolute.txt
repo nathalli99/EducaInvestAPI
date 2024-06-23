@@ -276,6 +276,7 @@ D:\EducaInvestAPI\EducaInvestAPI\obj\release\net8.0\refint\EducaInvestAPI.dll
 D:\EducaInvestAPI\EducaInvestAPI\obj\release\net8.0\EducaInvestAPI.pdb
 D:\EducaInvestAPI\EducaInvestAPI\obj\release\net8.0\EducaInvestAPI.genruntimeconfig.cache
 D:\EducaInvestAPI\EducaInvestAPI\obj\release\net8.0\ref\EducaInvestAPI.dll
+D:\EducaInvestAPI\EducaInvestAPI\obj\release\net8.0\EducaInvestAPI.sourcelink.json
 D:\EducaInvestAPI\EducaInvestAPI\bin\Release\net8.0\publish\web.config
 D:\EducaInvestAPI\EducaInvestAPI\bin\Release\net8.0\publish\appsettings.Development.json
 D:\EducaInvestAPI\EducaInvestAPI\bin\Release\net8.0\publish\appsettings.json

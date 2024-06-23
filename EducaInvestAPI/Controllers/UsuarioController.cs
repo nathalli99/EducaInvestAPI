@@ -93,13 +93,13 @@ namespace EducaInvestAPI.Controllers
         }
 
         [HttpPost("Verificar")] // Método para login do usuário
-        public async Task<IActionResult> VerificarUsuario(Usuario usuario)
+        public async Task<IActionResult> VerificarUsuario([FromBody] Login login)
         {
             try
             {
                 Usuario? usuarioRegistrado = await _context.TB_USUARIOS
                     .FirstOrDefaultAsync(x =>
-                        x.Email.ToLower() == usuario.Email.ToLower()
+                        x.Email.ToLower() == login.Email.ToLower()
                     );
 
                 if (usuarioRegistrado == null)
@@ -108,9 +108,9 @@ namespace EducaInvestAPI.Controllers
                 }
                 else if (usuarioRegistrado.PasswordHash == null || usuarioRegistrado.PasswordSalt == null)
                 {
-                    return BadRequest("A conta está com informações incompletas. Não é possível verificar.");
+                    return BadRequest("Dados incorretos, tente novamente.");
                 }
-                else if (!Criptografia.VerificarPasswordHash(usuario.PasswordString, usuarioRegistrado.PasswordHash, usuarioRegistrado.PasswordSalt))
+                else if (!Criptografia.VerificarPasswordHash(login.PasswordString, usuarioRegistrado.PasswordHash, usuarioRegistrado.PasswordSalt))
                 {
                     return BadRequest("Senha incorreta.");
                 }
@@ -118,12 +118,12 @@ namespace EducaInvestAPI.Controllers
                 {
                     usuarioRegistrado.DataAcesso = DateTime.Now;
                     await _context.SaveChangesAsync();
-                    return Ok(usuarioRegistrado);
+                    return Ok();
                 }
             }
             catch (Exception)
             {
-                return BadRequest("Houve um problema ao autenticar sua conta. Por favor, tente novamente.");
+                return BadRequest("Houve um problema ao tentar acessar sua conta. Por favor, tente novamente.");
             }
         }
 

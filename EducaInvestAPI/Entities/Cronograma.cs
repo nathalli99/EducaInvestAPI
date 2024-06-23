@@ -9,9 +9,11 @@ namespace EducaInvestAPI.Entities
         public int ProjetoId { get; set; }
 
         [JsonIgnore]
-        public Projeto? Projeto { get; set; }
+        public List<Atividade>? Atividades { get; set; }
 
         [JsonIgnore]
-        public List<Atividade>? Atividades { get; set; }
+        public Projeto? Projeto { get; set; }
+
+
     }
 }

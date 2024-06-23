@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EducaInvestAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa47753c8e7a8bca6e6c689bcc21b54e62332ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2671890e05907888fd95a5383216f536c0c4f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("EducaInvestAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EducaInvestAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

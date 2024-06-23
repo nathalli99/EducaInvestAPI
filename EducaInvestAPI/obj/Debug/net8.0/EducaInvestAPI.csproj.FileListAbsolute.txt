@@ -272,6 +272,7 @@ D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.AssemblyInfo.cs
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.csproj.CoreCompileInputs.cache
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.sourcelink.json
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\staticwebassets.build.json
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\staticwebassets\msbuild.EducaInvestAPI.Microsoft.AspNetCore.StaticWebAssets.props

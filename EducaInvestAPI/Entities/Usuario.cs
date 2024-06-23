@@ -32,7 +32,7 @@ namespace EducaInvestAPI.Entities
 
         public string Cidade { get; set; } = string.Empty;
 
-        public EstadoEnum UF { get; set; }
+        public string UF { get; set; } = string.Empty;
 
         public DateTime? DataAcesso { get; set; }
 

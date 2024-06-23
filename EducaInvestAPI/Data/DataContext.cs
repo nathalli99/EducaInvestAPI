@@ -110,6 +110,9 @@ namespace EducaInvestAPI.Data
                 entity.Property(e => e.Perfil)
                       .IsRequired();
 
+                entity.Property(e => e.UF)
+                      .HasMaxLength(2);
+
             });
 
             Usuario usuario = new Usuario();
@@ -123,7 +126,7 @@ namespace EducaInvestAPI.Data
             usuario.Telefone = string.Empty;
             usuario.LinkSocial = string.Empty;
             usuario.Cidade = string.Empty;
-            usuario.UF = EstadoEnum.DF;
+            usuario.UF = string.Empty;
             usuario.DataAcesso = DateTime.Now;
             usuario.PasswordString = string.Empty;
             usuario.PasswordHash = hash;
