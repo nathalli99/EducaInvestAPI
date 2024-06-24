@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\EducaInvestAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\script03_tabelaalter.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\script03_tabelaalter.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\script02_tabelaalteracoes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\script02_tabelaalteracoes.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\script01_tabelaeducainvest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\script01_tabelaeducainvest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\educainvestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\educainvestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\migrations\\20240623220401_listacolab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\migrations\\20240623220401_listacolab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\controllers\\projetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\entities\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|solutionrelative:educainvestapi\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969E1473-40A9-4FEF-908B-1C301F1D7552}|EducaInvestAPI\\EducaInvestAPI.csproj|d:\\educainvestapi\\educainvestapi\\controllers\\cronogramacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,46 +113,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AtividadeController.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\AtividadeController.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\AtividadeController.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\AtividadeController.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Controllers\\AtividadeController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAqwDIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:30:59.824Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "script03_TabelaAlter.sql",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\script03_TabelaAlter.sql",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\script03_TabelaAlter.sql",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\script03_TabelaAlter.sql",
+              "RelativeToolTip": "EducaInvestAPI\\script03_TabelaAlter.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T03:56:36.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EducaInvestAPI\\appsettings.json",
               "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\appsettings.json",
               "RelativeToolTip": "EducaInvestAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAD7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-21T11:53:41.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAAACoBAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Program.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Program.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:18:02.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T21:27:07.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "script02_TabelaAlteracoes.sql",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\script02_TabelaAlteracoes.sql",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\script02_TabelaAlteracoes.sql",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\script02_TabelaAlteracoes.sql",
+              "RelativeToolTip": "EducaInvestAPI\\script02_TabelaAlteracoes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T03:55:35.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Data\\DataContext.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:52:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Projeto.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Projeto.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Projeto.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Entities\\Projeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:31:22.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "script01_TabelaEducaInvest.sql",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\script01_TabelaEducaInvest.sql",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\script01_TabelaEducaInvest.sql",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\script01_TabelaEducaInvest.sql",
+              "RelativeToolTip": "EducaInvestAPI\\script01_TabelaEducaInvest.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-24T03:47:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EducaInvestAPI.http",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\EducaInvestAPI.http",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\EducaInvestAPI.http",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\EducaInvestAPI.http",
+              "RelativeToolTip": "EducaInvestAPI\\EducaInvestAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-23T21:27:03.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ProjetoController.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\ProjetoController.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\ProjetoController.cs",
@@ -136,64 +215,11 @@
               "RelativeToolTip": "EducaInvestAPI\\Controllers\\ProjetoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T08:13:26.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Data\\DataContext.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Data\\DataContext.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T11:52:37.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cronograma.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Cronograma.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Cronograma.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Cronograma.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Entities\\Cronograma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:31:05.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Login.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Login.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Login.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Entities\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T06:18:52.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T08:13:26.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Projeto.cs",
-              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Projeto.cs",
-              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Projeto.cs",
-              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Projeto.cs",
-              "RelativeToolTip": "EducaInvestAPI\\Entities\\Projeto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:31:22.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Usuario.cs",
@@ -201,12 +227,71 @@
               "RelativeToolTip": "EducaInvestAPI\\Entities\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:31:29.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T04:31:29.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "20240623220401_ListaColab.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Migrations\\20240623220401_ListaColab.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Migrations\\20240623220401_ListaColab.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Migrations\\20240623220401_ListaColab.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Migrations\\20240623220401_ListaColab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:05:53.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAACoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:18:02.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AtividadeController.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\AtividadeController.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\AtividadeController.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\AtividadeController.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Controllers\\AtividadeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:30:59.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cronograma.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Cronograma.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Cronograma.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Cronograma.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Entities\\Cronograma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:31:05.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Login.cs",
+              "ToolTip": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Login.cs",
+              "RelativeToolTip": "EducaInvestAPI\\Entities\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:18:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Atividade.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Atividade.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Atividade.cs",
@@ -214,12 +299,11 @@
               "RelativeToolTip": "EducaInvestAPI\\Entities\\Atividade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:31:38.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T04:31:38.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CronogramaController.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Controllers\\CronogramaController.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Controllers\\CronogramaController.cs",
@@ -231,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Criptografia.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Utils\\Criptografia.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Utils\\Criptografia.cs",
@@ -243,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "StatusProjetoEnum.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Enums\\StatusProjetoEnum.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Enums\\StatusProjetoEnum.cs",
@@ -255,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "StatusAtividadeEnum.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Enums\\StatusAtividadeEnum.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Enums\\StatusAtividadeEnum.cs",
@@ -267,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "PerfilUsuarioEnum.cs",
               "DocumentMoniker": "D:\\EducaInvestAPI\\EducaInvestAPI\\Entities\\Enums\\PerfilUsuarioEnum.cs",
               "RelativeDocumentMoniker": "EducaInvestAPI\\Entities\\Enums\\PerfilUsuarioEnum.cs",
@@ -279,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\nathalli\\AppData\\Roaming\\Microsoft\\UserSecrets\\9c36e150-13c9-4265-8ea8-8245cb8a5446\\secrets.json",
               "ToolTip": "C:\\Users\\nathalli\\AppData\\Roaming\\Microsoft\\UserSecrets\\9c36e150-13c9-4265-8ea8-8245cb8a5446\\secrets.json",

@@ -15,7 +15,7 @@ var options = new JsonSerializerOptions()
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoAzure"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoSomee"));
 });
 
 builder.Services.AddControllers();

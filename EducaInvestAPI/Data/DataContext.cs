@@ -19,12 +19,12 @@ namespace EducaInvestAPI.Data
         public DbSet<Usuario> TB_USUARIOS { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        /* protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //User Id=nathallir;Password=EIdb2024#;
-            optionsBuilder.UseSqlServer("Server=educainveste.database.windows.net;Database=dbeducainvest;User Id=;Password=;",
+            optionsBuilder.UseSqlServer("Server=educainveste.database.windows.net;Database=dbeducainvest;User Id=nathallir;Password=EIdb2024#;",
                 options => options.EnableRetryOnFailure());
-        }
+        } */
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -142,13 +142,8 @@ D:\1-arquivos\1-ETEC-DS\3DS\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publi
 D:\1-arquivos\1-ETEC-DS\3DS\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\appsettings.json
 D:\1-arquivos\1-ETEC-DS\3DS\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.deps.json
 D:\1-arquivos\1-ETEC-DS\3DS\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.runtimeconfig.json
-D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\web.config
 D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\appsettings.Development.json
 D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\appsettings.json
-D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\appsettings.Development.json
-D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\appsettings.json
-D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.deps.json
-D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.runtimeconfig.json
 D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\EducaInvestAPI.exe
 D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\EducaInvestAPI.deps.json
 D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\EducaInvestAPI.runtimeconfig.json
@@ -287,3 +282,8 @@ D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\refint\EducaInvestAPI.dll
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.pdb
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\EducaInvestAPI.genruntimeconfig.cache
 D:\EducaInvestAPI\EducaInvestAPI\obj\Debug\net8.0\ref\EducaInvestAPI.dll
+D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\web.config
+D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\appsettings.json
+D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.deps.json
+D:\EducaInvestAPI\EducaInvestAPI\bin\Debug\net8.0\publish\EducaInvestAPI.runtimeconfig.json
